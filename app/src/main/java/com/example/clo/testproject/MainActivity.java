@@ -16,6 +16,8 @@ public class MainActivity extends ActionBarActivity {
         // some comment
 
         // another comment
+
+        // something else
     }
 
 
