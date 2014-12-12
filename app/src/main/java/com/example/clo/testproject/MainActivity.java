@@ -18,6 +18,8 @@ public class MainActivity extends ActionBarActivity {
         // another comment
 
         // something else
+
+        // a fourth comment
     }
 
 
