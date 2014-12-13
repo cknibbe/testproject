@@ -22,6 +22,8 @@ public class MainActivity extends ActionBarActivity {
         // a fourth comment
 
         // another thing 2
+
+        // and another thing
     }
 
 
